@@ -22,7 +22,7 @@ Deployment: Releasing the software to users or customers.
 Maintenance: Providing ongoing support, updates, and enhancements to the software after deployment.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
- Waterfall provides a equential approach with distinct phases flowing downwards like a waterfall whereas Agile provides for an iterative and incremental approach focused on flexibility, collaboration, and responding to change.
+ Waterfall provides a equential approach with distinct phases flowing downwards like a waterfall whereas Agile provides for an iterative and incremental approach focused on flexibility, collaboration and responding to change.
  Waterfall may be used during requirement gathering stage, design stage and implementation stage, whereas Agile may be used to provide feedback after an iteration is complete.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
