@@ -10,7 +10,7 @@ Software engineering is the systematic application of engineering principles, me
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 The establishment of Software Engineering as a discipline in 1960s.
-The advent os structured programming in 1970s.
+The advent of structured programming in 1970s.
 The rise of agile methodologies in 2000s.
 
 List and briefly explain the phases of the Software Development Life Cycle.
