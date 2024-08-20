@@ -14,7 +14,7 @@ The advent of structured programming in 1970s.
 The rise of agile methodologies in 2000s.
 
 List and briefly explain the phases of the Software Development Life Cycle.
-Requiremen: Gathering and documenting user needs and system reuirements.
+Requirement: Gathering and documenting user needs and system reuirements.
 Design: Creating high-level and detailed designs of the software architecture and user interface.
 Implementation: Writing code and building the software according to the design specifications.
 Testing: Conducting various tests to ensure the software meets quality standards and functional requirements.
